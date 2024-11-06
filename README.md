@@ -1,4 +1,5 @@
-![Uploading WhatsApp Image 2024-11-06 at 19.18.11_0a7ea32b.jpg…]()
+![image](https://github.com/user-attachments/assets/00c03a2a-78d5-42c1-b0da-156d13b9bc81)
+
 
 
 Project Live Link: https://analog-clock-three-omega.vercel.app/
